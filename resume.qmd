@@ -5,59 +5,45 @@ title: Cody Hewitt's CV
 # Cody Hewitt
 Computer Science Major, Brigham Young University-Idaho.
 
-<div id="webaddress">
-<a href="hew24004@byui.edu">hew24004@byui.edu</a>
-| <a href="https://github.com/cody613/Cody-Hewitts-Portfolio">Projects</a>
-</div>
+[hew24004@byui.edu](mailto:hew24004@byui.edu) | [Projects](https://github.com/cody613/Cody-Hewitts-Portfolio)
 
 ## Currently
-
 Working toward a bachelor's degree and creating side projects.
 
 ### Specialized in
-
 Object-oriented programming, Python, C#, and data science.
 
 ### Research interests
-
 Machine learning classifiers, Polars dataframes, multi-class project architecture, and cross-platform software rendering.
 
 ## Education
+**Sept 2024 - Present**
 
-`Sept 2024 - Present`
-
-__Bachelor's Degree Program in Computer Science.__
-
-__Coursework in Data Science and Computer Programming.__
+* Bachelor's Degree Program in Computer Science.
+* Coursework in Data Science and Computer Programming.
+* Completed introductory programming tracks and advanced into complex object-oriented program architecture.
 
 ## Projects & Applied Experience
+**Sept 2024 - Present**
 
-`Sept 2024 - Present`
-
-__Event & Fitness Metric Tracker__
+**Event & Fitness Metric Tracker**
 
 * Implemented multi-class final project modules establishing complex event logic.
-
 * Developed integrated fitness metric tracking components.
 
-__Data Analytics & Machine Learning__
+**Data Analytics & Machine Learning**
 
 * Wrote, tested, and debugged complex scripts using Python and C#.
-
 * Built analytical solutions utilizing Polars dataframes and machine learning classifiers.
 
 ## Skills & Environment
 
-`Languages & Frameworks`
+**Languages & Frameworks**
 
-__Python, C#, Polars__
+* Python, C#, and Polars.
 
-`Hardware & Ecosystem`
+**Hardware & Ecosystem**
 
-__Apple Silicon Ecosystem__
+* Managed daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air within the Apple Silicon Ecosystem.
 
-* Managed daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air.
-
-### Footer
-
-Last updated: July 2026
+*Last updated: July 2026*

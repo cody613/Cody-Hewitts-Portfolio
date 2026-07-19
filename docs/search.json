@@ -35,7 +35,7 @@
     "href": "resume.html",
     "title": "Cody Hewitt’s CV",
     "section": "",
-    "text": "Computer Science Major, Brigham Young University-Idaho.\n\nhew24004@byui.edu | Projects\n\n\n\nWorking toward a bachelor’s degree and creating side projects.\n\n\nObject-oriented programming, Python, C#, and data science.\n\n\n\nMachine learning classifiers, Polars dataframes, multi-class project architecture, and cross-platform software rendering.\n\n\n\n\nSept 2024 - Present\nBachelor’s Degree Program in Computer Science.\nCoursework in Data Science and Computer Programming.\n\n\n\nSept 2024 - Present\nEvent & Fitness Metric Tracker\n\nImplemented multi-class final project modules establishing complex event logic.\nDeveloped integrated fitness metric tracking components.\n\nData Analytics & Machine Learning\n\nWrote, tested, and debugged complex scripts using Python and C#.\nBuilt analytical solutions utilizing Polars dataframes and machine learning classifiers.\n\n\n\n\nLanguages & Frameworks\nPython, C#, Polars\nHardware & Ecosystem\nApple Silicon Ecosystem\n\nManaged daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air.\n\n\n\nLast updated: July 2026"
+    "text": "Computer Science Major, Brigham Young University-Idaho.\nhew24004@byui.edu | Projects\n\n\nWorking toward a bachelor’s degree and creating side projects.\n\n\nObject-oriented programming, Python, C#, and data science.\n\n\n\nMachine learning classifiers, Polars dataframes, multi-class project architecture, and cross-platform software rendering.\n\n\n\n\nSept 2024 - Present\n\nBachelor’s Degree Program in Computer Science.\nCoursework in Data Science and Computer Programming.\nCompleted introductory programming tracks and advanced into complex object-oriented program architecture.\n\n\n\n\nSept 2024 - Present\nEvent & Fitness Metric Tracker\n\nImplemented multi-class final project modules establishing complex event logic.\nDeveloped integrated fitness metric tracking components.\n\nData Analytics & Machine Learning\n\nWrote, tested, and debugged complex scripts using Python and C#.\nBuilt analytical solutions utilizing Polars dataframes and machine learning classifiers.\n\n\n\n\nLanguages & Frameworks\n\nPython, C#, and Polars.\n\nHardware & Ecosystem\n\nManaged daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air within the Apple Silicon Ecosystem.\n\nLast updated: July 2026"
   },
   {
     "objectID": "resume.html#currently",
@@ -49,7 +49,7 @@
     "href": "resume.html#education",
     "title": "Cody Hewitt’s CV",
     "section": "",
-    "text": "Sept 2024 - Present\nBachelor’s Degree Program in Computer Science.\nCoursework in Data Science and Computer Programming."
+    "text": "Sept 2024 - Present\n\nBachelor’s Degree Program in Computer Science.\nCoursework in Data Science and Computer Programming.\nCompleted introductory programming tracks and advanced into complex object-oriented program architecture."
   },
   {
     "objectID": "resume.html#awards",
@@ -376,6 +376,13 @@
     "href": "resume.html#skills-environment",
     "title": "Cody Hewitt’s CV",
     "section": "",
-    "text": "Languages & Frameworks\nPython, C#, Polars\nHardware & Ecosystem\nApple Silicon Ecosystem\n\nManaged daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air.\n\n\n\nLast updated: July 2026"
+    "text": "Languages & Frameworks\n\nPython, C#, and Polars.\n\nHardware & Ecosystem\n\nManaged daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air within the Apple Silicon Ecosystem.\n\nLast updated: July 2026"
+  },
+  {
+    "objectID": "resume.html#specialized-in",
+    "href": "resume.html#specialized-in",
+    "title": "Cody Hewitt’s CV",
+    "section": "",
+    "text": "Object-oriented programming, Python, C#, and data science.\n\n\nMachine learning classifiers, Polars dataframes, multi-class project architecture, and cross-platform software rendering."
   }
 ]
