@@ -23,19 +23,6 @@ Machine learning classifiers, Polars dataframes, multi-class project architectur
 * Coursework in Data Science and Computer Programming.
 * Completed introductory programming tracks and advanced into complex object-oriented program architecture.
 
-## Projects & Applied Experience
-**Sept 2024 - Present**
-
-**Event & Fitness Metric Tracker**
-
-* Implemented multi-class final project modules establishing complex event logic.
-* Developed integrated fitness metric tracking components.
-
-**Data Analytics & Machine Learning**
-
-* Wrote, tested, and debugged complex scripts using Python and C#.
-* Built analytical solutions utilizing Polars dataframes and machine learning classifiers.
-
 ## Skills & Environment
 
 **Languages & Frameworks**
