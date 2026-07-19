@@ -1,131 +1,5 @@
 [
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Cody Hewitt’s CV",
-    "section": "",
-    "text": "Computer Science Major, Brigham Young University-Idaho.\nhew24004@byui.edu | Projects\n\n\nWorking toward a bachelor’s degree and creating side projects.\n\n\nObject-oriented programming, Python, C#, and data science.\n\n\n\nMachine learning classifiers, Polars dataframes, multi-class project architecture, and cross-platform software rendering.\n\n\n\n\nSept 2024 - Present\n\nBachelor’s Degree Program in Computer Science.\nCoursework in Data Science and Computer Programming.\nCompleted introductory programming tracks and advanced into complex object-oriented program architecture.\n\n\n\n\nSept 2024 - Present\nEvent & Fitness Metric Tracker\n\nImplemented multi-class final project modules establishing complex event logic.\nDeveloped integrated fitness metric tracking components.\n\nData Analytics & Machine Learning\n\nWrote, tested, and debugged complex scripts using Python and C#.\nBuilt analytical solutions utilizing Polars dataframes and machine learning classifiers.\n\n\n\n\nLanguages & Frameworks\n\nPython, C#, and Polars.\n\nHardware & Ecosystem\n\nManaged daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air within the Apple Silicon Ecosystem.\n\nLast updated: July 2026"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Cody Hewitt’s CV",
-    "section": "",
-    "text": "Working toward a bachelor’s degree and creating side projects.\n\n\nObject-oriented programming, Python, C#, and data science.\n\n\n\nMachine learning classifiers, Polars dataframes, multi-class project architecture, and cross-platform software rendering."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Cody Hewitt’s CV",
-    "section": "",
-    "text": "Sept 2024 - Present\n\nBachelor’s Degree Program in Computer Science.\nCoursework in Data Science and Computer Programming.\nCompleted introductory programming tracks and advanced into complex object-oriented program architecture."
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
     "objectID": "competition.html",
     "href": "competition.html",
     "title": "about me",
@@ -145,17 +19,6 @@
     "crumbs": [
       "Competitions",
       "Competition"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competitions",
-      "Project 2"
     ]
   },
   {
@@ -181,14 +44,177 @@
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Exploration",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Cody Hewitt’s CV",
+    "section": "",
+    "text": "Computer Science Major, Brigham Young University-Idaho.\nhew24004@byui.edu | Projects\n\n\nWorking toward a bachelor’s degree and creating side projects.\n\n\nObject-oriented programming, Python, C#, and data science.\n\n\n\nMachine learning classifiers, Polars dataframes, multi-class project architecture, and cross-platform software rendering.\n\n\n\n\nSept 2024 - Present\n\nBachelor’s Degree Program in Computer Science.\nCoursework in Data Science and Computer Programming.\nCompleted introductory programming tracks and advanced into complex object-oriented program architecture.\n\n\n\n\nSept 2024 - Present\nEvent & Fitness Metric Tracker\n\nImplemented multi-class final project modules establishing complex event logic.\nDeveloped integrated fitness metric tracking components.\n\nData Analytics & Machine Learning\n\nWrote, tested, and debugged complex scripts using Python and C#.\nBuilt analytical solutions utilizing Polars dataframes and machine learning classifiers.\n\n\n\n\nLanguages & Frameworks\n\nPython, C#, and Polars.\n\nHardware & Ecosystem\n\nManaged daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air within the Apple Silicon Ecosystem.\n\nLast updated: July 2026"
+  },
+  {
+    "objectID": "resume.html#currently",
+    "href": "resume.html#currently",
+    "title": "Cody Hewitt’s CV",
+    "section": "",
+    "text": "Working toward a bachelor’s degree and creating side projects.\n\n\nObject-oriented programming, Python, C#, and data science.\n\n\n\nMachine learning classifiers, Polars dataframes, multi-class project architecture, and cross-platform software rendering."
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Cody Hewitt’s CV",
+    "section": "",
+    "text": "Sept 2024 - Present\n\nBachelor’s Degree Program in Computer Science.\nCoursework in Data Science and Computer Programming.\nCompleted introductory programming tracks and advanced into complex object-oriented program architecture."
+  },
+  {
+    "objectID": "resume.html#projects-applied-experience",
+    "href": "resume.html#projects-applied-experience",
+    "title": "Cody Hewitt’s CV",
+    "section": "",
+    "text": "Sept 2024 - Present\nEvent & Fitness Metric Tracker\n\nImplemented multi-class final project modules establishing complex event logic.\nDeveloped integrated fitness metric tracking components.\n\nData Analytics & Machine Learning\n\nWrote, tested, and debugged complex scripts using Python and C#.\nBuilt analytical solutions utilizing Polars dataframes and machine learning classifiers."
+  },
+  {
+    "objectID": "resume.html#skills-environment",
+    "href": "resume.html#skills-environment",
+    "title": "Cody Hewitt’s CV",
+    "section": "",
+    "text": "Languages & Frameworks\n\nPython, C#, and Polars.\n\nHardware & Ecosystem\n\nManaged daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air within the Apple Silicon Ecosystem.\n\nLast updated: July 2026"
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
       "Project 2"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
     ]
   },
   {
@@ -212,35 +238,58 @@
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
       "Data Exploration",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project3.html",
-    "href": "Cleansing_Exploration/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Exploration",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Cleansing",
       "Project 2"
     ]
   },
@@ -267,26 +316,6 @@
     ]
   },
   {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
     "objectID": "Full_Stack/project2.html",
     "href": "Full_Stack/project2.html",
     "title": "Client Report - [Insert Project Title]",
@@ -298,91 +327,34 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Machine Learning",
+      "Data Cleansing",
       "Project 2"
     ]
   },
   {
-    "objectID": "ml.html",
-    "href": "ml.html",
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Machine Learning"
+      "Full Stack"
     ]
   },
   {
-    "objectID": "ml.html#title-2-header",
-    "href": "ml.html#title-2-header",
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
     "title": "about me",
     "section": "",
     "text": "MarkDown Basics",
     "crumbs": [
-      "Machine Learning"
+      "Full Stack"
     ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "resume.html#projects-applied-experience",
-    "href": "resume.html#projects-applied-experience",
-    "title": "Cody Hewitt’s CV",
-    "section": "",
-    "text": "Sept 2024 - Present\nEvent & Fitness Metric Tracker\n\nImplemented multi-class final project modules establishing complex event logic.\nDeveloped integrated fitness metric tracking components.\n\nData Analytics & Machine Learning\n\nWrote, tested, and debugged complex scripts using Python and C#.\nBuilt analytical solutions utilizing Polars dataframes and machine learning classifiers."
-  },
-  {
-    "objectID": "resume.html#skills-environment",
-    "href": "resume.html#skills-environment",
-    "title": "Cody Hewitt’s CV",
-    "section": "",
-    "text": "Languages & Frameworks\n\nPython, C#, and Polars.\n\nHardware & Ecosystem\n\nManaged daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air within the Apple Silicon Ecosystem.\n\nLast updated: July 2026"
-  },
-  {
-    "objectID": "resume.html#specialized-in",
-    "href": "resume.html#specialized-in",
-    "title": "Cody Hewitt’s CV",
-    "section": "",
-    "text": "Object-oriented programming, Python, C#, and data science.\n\n\nMachine learning classifiers, Polars dataframes, multi-class project architecture, and cross-platform software rendering."
   }
 ]
