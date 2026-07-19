@@ -6,8 +6,8 @@ title: Cody Hewitt's CV
 Computer Science Major, Brigham Young University-Idaho.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="hew24004@byui.edu">hew24004@byui.edu</a>
+| <a href="https://github.com/cody613/Cody-Hewitts-Portfolio">Projects</a>
 </div>
 
 ## Currently
@@ -25,6 +25,7 @@ Machine learning classifiers, Polars dataframes, multi-class project architectur
 ## Education
 
 `Sept 2024 - Present`
+
 __Bachelor's Degree Program in Computer Science.__
 
 __Coursework in Data Science and Computer Programming.__
@@ -32,21 +33,29 @@ __Coursework in Data Science and Computer Programming.__
 ## Projects & Applied Experience
 
 `Sept 2024 - Present`
+
 __Event & Fitness Metric Tracker__
+
 * Implemented multi-class final project modules establishing complex event logic.
+
 * Developed integrated fitness metric tracking components.
 
 __Data Analytics & Machine Learning__
+
 * Wrote, tested, and debugged complex scripts using Python and C#.
+
 * Built analytical solutions utilizing Polars dataframes and machine learning classifiers.
 
 ## Skills & Environment
 
 `Languages & Frameworks`
+
 __Python, C#, Polars__
 
 `Hardware & Ecosystem`
+
 __Apple Silicon Ecosystem__
+
 * Managed daily software engineering tasks, rendering, and coursework utilizing an M1 MacBook Air.
 
 ### Footer
